@@ -1,4 +1,4 @@
 # Analysis-of-Sales-data
-Sales Insight
+MySQL + Tableau
 
 Data analysis and cleaning using MySQL and visualization on Tableau.
